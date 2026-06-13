@@ -1,25 +1,10 @@
 <?php
 // データベース設定
 
-/*
-$dbServer = 'localhost';
-$dbUser   = 'root';
-$dbPass   = 'root';
-$dbName   = 'matsushima';
-*/
-
-/*
-$dbServer = 'mysql300.db.sakura.ne.jp';
-$dbUser   = 'digitaling';
-$dbPass   = 'bonjovi-1';
-$dbName   = 'digitaling_matsushima';
-*/
-
-
-$dbServer = 'mysql446.db.sakura.ne.jp';
-$dbUser   = 'granz';
-$dbPass   = 'wkgt554byw';
-$dbName   = 'granz_matsushima';
+$dbServer = '';
+$dbUser   = '';
+$dbPass   = '';
+$dbName   = '';
 
 
 $flag = TRUE;
